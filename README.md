@@ -1,2 +1,2 @@
-# El_maguito_picanalga
+# El Malguito
 Proyecto Final Segundo semestre. 
